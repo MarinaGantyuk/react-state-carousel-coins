@@ -1,0 +1,7 @@
+exports[`snapshot test for card 1`] = `
+<div class="Card">
+    <h5 class="Card-title">Photo by Richard Pasquarella on Unsplash</h5>
+    <img class="Card-image" src="/static/media/image1.08e1519e765278b10548.jpg" alt="Photo by Richard Pasquarella on Unsplash">
+    <small class="Card-small">Image 1 of 3.</small>
+</div>
+`;
